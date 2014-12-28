@@ -1,0 +1,26 @@
+{
+  "name": "box-sizing-polyfill",
+  "main": "boxsizing.htc",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sidisinsane/box-sizing-polyfill",
+  "authors": [
+    "Christian Schepp Schaefer <schaepp@gmx.de>",
+    "Dirk Sidney Jansen <sid@sidisinsane.com>"
+  ],
+  "description": "A polyfill for box-sizing: border-box for IE6 & IE7.",
+  "keywords": [
+    "browser",
+    "polyfill"
+  ],
+  "license": "LGPL 3.0",
+  "ignore": [
+    ".*",
+    "Gruntfile.coffee",
+    "bower_components",
+    "docs",
+    "node_modules",
+    "package.json",
+    "templates",
+    "tests"
+  ]
+}
